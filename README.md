@@ -36,8 +36,9 @@ I am open to opportunities in graduate studies, research roles, and positions th
 
 ### 4. [World Bank Open Data](https://data.worldbank.org/)
 **Description**: Global development data covering various sectors like health, education, and finance.  
-**Project Idea**: Investigate how remittance inflows affect women’s empowerment in Bangladesh. Use metrics like female labor participation and fertility rates to analyze socioeconomic changes alongside remittance trends.
+**Project Idea**: Investigate how remittance inflows affect women’s empowerment in UK after brexit. Use metrics like  labor participation and inflation rates to analyze socioeconomic changes alongside remittance trends.
 
-### 5. [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
-**Description**: A dataset categorizing news articles as fake or real, along with their content and metadata.  
-**Project Idea**: Use Natural Language Processing (NLP) techniques to identify linguistic patterns in fake news. Visualize the evolution of fake news topics over time and analyze peak times for misinformation dissemination.
+### [United Nations Human Development Data](https://hdr.undp.org/data-center)
+**Description**: Comprehensive data on global human development indicators such as education, income, health, and inequality, compiled by the United Nations Development Programme.  
+**Project Idea**: Analyze how the Human Development Index (HDI) has evolved in conflict-affected countries over the past two decades. Investigate correlations between HDI trends and factors like foreign aid, migration rates, or changes in governance structures. Visualize regional disparities and potential recovery trajectories post-conflict.
+
