@@ -42,3 +42,8 @@ I am open to opportunities in graduate studies, research roles, and positions th
 **Description**: Comprehensive data on global human development indicators such as education, income, health, and inequality, compiled by the United Nations Development Programme.  
 **Project Idea**: Analyze how the Human Development Index (HDI) has evolved in conflict-affected countries over the past two decades. Investigate correlations between HDI trends and factors like foreign aid, migration rates, or changes in governance structures. Visualize regional disparities and potential recovery trajectories post-conflict.
 
+## Where's Schueller?
+
+This interactive visualization shows Prof. Schueller's geolocation data over time from Homework 05 where it repesents how long Professor Schueller visits SEATAC Airport over time. Click the link below to explore:
+
+[View the map visualization](wheres_schueller.html)
