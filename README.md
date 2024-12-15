@@ -22,28 +22,18 @@ I am open to opportunities in graduate studies, research roles, and positions th
 
 ## Data Sources and Project Ideas
 
-### 1. [S&P 500 Data](https://finance.yahoo.com/quote/%5EGSPC/)
-**Description**: Historical stock market data for the S&P 500, including daily prices, volume, and indices.  
-**Project Idea**: Explore correlations between S&P 500 performance, GDP growth, and presidential terms. Analyze economic trends across administrations and visualize the impact of policy decisions on the stock market.
+###[Analyzing Economic Trends: S&P 500 Performance, GDP Growth, and Presidential Impact](https://abdrah-2004.github.io/Portfolio/)
+**Description**: This research project explores the interplay between presidential administrations, congressional control, economic policies, and the performance of the S&P 500 from 1993 to 2024. Through a comprehensive analysis integrating S&P 500 data with key economic events, policy changes, and GDP growth, we investigate how different political regimes influence market dynamics. Our hypothesis posits that Democratic presidencies often correlate with enhanced market performance, asserting that GDP growth significantly forecasts stock market trends and that election years amplify market volatility due to political transitions. By dissecting the performance across various industries, our findings reveal that sectors such as technology, healthcare, and consumer discretionary generally flourish under Democratic policies promoting innovation and consumer protection, whereas energy and financials sectors tend to perform better under Republican administrations favoring deregulation. The research highlights the necessity for investors to adopt diversified strategies to navigate the sector-specific volatility and the profound impact political and economic climates have on market performance.
+**Summary of Findings**  
+1. **Impact of Presidential Administrations on S&P 500 Performance**: Democratic administrations, especially during periods of economic recovery, generally correlate with stronger market growth.  
+2. **Correlation Between GDP Growth and S&P 500 Returns**: A positive correlation was found between GDP growth and stock market returns, particularly in high-growth periods.  
+3. **Stock Market Volatility During Election Cycles**: Volatility tends to increase during election years, reflecting uncertainty in investor behavior.  
+4. **Impact of Congressional and White House Control on S&P 500**: Unified Democratic control over the White House and Congress has historically led to stronger market performance.  
+5. **S&P 500 Performance Across Different Industries**: The Technology sector has demonstrated robust growth, while the Energy sector has fluctuated in response to macroeconomic factors.
 
-### 2. [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)
-**Description**: Time-series data on global and regional climate indicators, including temperature, precipitation, and CO2 levels.  
-**Project Idea**: Compare climate change temperature data with GDP trends in the U.S. Use time-series analysis to examine the potential misleading correlations caused by parallel upward trends.
-
-### 3. [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home)
-**Description**: U.S. crime statistics categorized by state, type of crime, and demographics.  
-**Project Idea**: Analyze changes in crime rates across states over time and compare them with socioeconomic indicators like unemployment or education levels. Identify patterns that could inform public policy.
-
-### 4. [World Bank Open Data](https://data.worldbank.org/)
-**Description**: Global development data covering various sectors like health, education, and finance.  
-**Project Idea**: Investigate how remittance inflows affect women’s empowerment in UK after brexit. Use metrics like  labor participation and inflation rates to analyze socioeconomic changes alongside remittance trends.
-
-### 5. [United Nations Human Development Data](https://hdr.undp.org/data-center)
-**Description**: Comprehensive data on global human development indicators such as education, income, health, and inequality, compiled by the United Nations Development Programme.  
-**Project Idea**: Analyze how the Human Development Index (HDI) has evolved in conflict-affected countries over the past two decades. Investigate correlations between HDI trends and factors like foreign aid, migration rates, or changes in governance structures. Visualize regional disparities and potential recovery trajectories post-conflict.
 
 ## Where's Schueller?
 
 This interactive visualization shows Prof. Schueller's geolocation data over time from Homework 05 where it repesents how long Professor Schueller visits SEATAC Airport over time. Click the link below to explore:
+ <iframe src="wheres_schueller.html" width="150%" height="1000" frameborder="0"></iframe>
 
-[View the map visualization](wheres_schueller.html)
